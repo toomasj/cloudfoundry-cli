@@ -1,3 +1,3 @@
 # cloudfoundry-cli
 
-Cloud Foundry CLI image based on busybox
+Cloud Foundry CLI image based on ubuntu:14.04
