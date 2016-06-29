@@ -1,4 +1,4 @@
-FROM busybox:ubuntu-14.04
+FROM ubuntu:14.04
 
 ADD https://cli.run.pivotal.io/stable?release=linux64-binary&version=6.19.0 /tmp/cf-cli.tgz
 
