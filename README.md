@@ -1,3 +1,3 @@
-# cloudfoundry-cli
+# cloudfoundry-cli-java
 
-Cloud Foundry CLI image based on ubuntu:14.04
+Cloud Foundry CLI image based on java:7-jdk
