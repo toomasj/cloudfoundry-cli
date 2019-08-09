@@ -1,4 +1,4 @@
-FROM adoptopenjdk/opendjk8:latest
+FROM adoptopenjdk/openjdk8:latest
 
 RUN apt-get update
 RUN apt-get install -y ca-certificates uuid-runtime
